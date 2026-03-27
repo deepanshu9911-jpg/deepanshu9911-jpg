@@ -1,21 +1,132 @@
-# 💫 About Me:
-# Hi there, I'm Deepanshu Srivastava! 👋<br><br>Aspiring AI and Software Developer. I am currently pursuing my B.Tech. in Computer Science and Engineering (AIML) at VIT Chennai (Class of 2028). I am eager to leverage my skills in machine learning and software engineering to develop impactful, data-driven solutions.<br><br>### 🔭 Currently Learning<br>Compiler Design, Linear Algebra, and advanced concepts in AI/ML.
+<div align="center">
 
+# Hey, I'm Deepanshu Srivastava 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepanshu_1071) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-srivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepanshuup2005@gmail.com) 
+**Aspiring AI & Software Developer · VIT Chennai · Building real-world intelligent systems**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepanshu9911-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepanshu9911-jpg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu9911-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Full-stack developer with a focus on ML-powered applications, real-time systems, and secure backends.*
+*I turn complex problems into working, data-driven products.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepanshu--srivastava-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deepanshu-srivastava)
+[![GitHub](https://img.shields.io/badge/GitHub-deepanshu9911--jpg-181717?style=flat-square&logo=github)](https://github.com/deepanshu9911-jpg)
+[![Email](https://img.shields.io/badge/Email-deepanshuup2005@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:deepanshuup2005@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209289727811-25D366?style=flat-square&logo=whatsapp)](tel:+919289727811)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepanshu9911-jpg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a B.Tech Computer Science (AIML) student at **VIT Chennai** (CGPA: 8.55/10), graduating in 2028. I build full-stack intelligent systems — from real-time intrusion detection pipelines to AI-powered triage assistants.
+
+My work lives at the intersection of **machine learning**, **secure backend engineering**, and **developer-friendly UX**. I care about shipping things that actually work.
+
+- 🔭 Currently building: AI-powered developer tools and security systems
+- 🌱 Exploring: Agentic AI systems, LLM integrations, advanced ML pipelines
+- 📍 Based in Chennai, India
+- 💬 Ask me about: Python, React, ML model deployment, full-stack architecture
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**AI & Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini%20LLM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20AI-00A67E?style=flat-square)
+
+**Databases & Security**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![AES](https://img.shields.io/badge/AES--256--CBC-555555?style=flat-square)
+
+---
+
+## Featured Projects
+
+### 🤖 AI Coding Mentor
+> AI-powered code analysis platform supporting 9 programming languages
+
+- Built with **React**, **Node.js**, and **MongoDB**
+- Integrated **Groq AI** + online compiler for real-time feedback and personalized practice challenges based on user weaknesses
+- Secured with **JWT authentication** and **AES-256-CBC** end-to-end encryption
+
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/deepanshu9911-jpg)
+
+---
+
+### 🛡️ ML-Based Intrusion Detection System
+> Real-time anomaly detection with 99% accuracy and 0.98 F1-score
+
+- Architected using **XGBoost** and **Random Forest** models trained on 50,000+ network traffic samples
+- Applied **PCA dimensionality reduction** (20 components) to optimize model training
+- Live packet capture agent via **WebSockets** + React dashboard for real-time alert visualization and threat scoring
+
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/deepanshu9911-jpg)
+
+---
+
+### 🩺 Dr. G: AI Symptom Triage Assistant
+> LLM-powered patient symptom triage in a single-page TypeScript/React app
+
+- Integrated **Gemini LLM** backend to rapidly triage complex patient symptoms
+- Designed a responsive chat-style UI with dynamic symptom chips and range sliders
+- Optimized local data handling using **JSON datasets** for fast runtime and offline testing
+
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/deepanshu9911-jpg)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshu9911-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu9911-jpg&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu9911-jpg&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| B.Tech — CSE (AIML) | VIT Chennai | 2024–2028 | CGPA: 8.55/10 |
+| Class 12th (CBSE) | Dhruva Public School, New Delhi | 2023 | — |
+
+---
+
+<div align="center">
+
+*Building at the intersection of AI, security, and developer experience.*
+*Open to internships, collaborations, and interesting problems.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepanshu9911-jpg&color=blueviolet&style=flat-square)
+
+</div>
