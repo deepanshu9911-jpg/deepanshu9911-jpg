@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile photo — large, circular -->
-<img src="https://avatars.githubusercontent.com/deepanshu9911-jpg" width="200" alt="Deepanshu Srivastava" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/deepanshu9911-jpg/deepanshu9911-jpg/main/profile.png" width="200" alt="Deepanshu Srivastava" style="border-radius:50%"/>
 
 <br/><br/>
 
