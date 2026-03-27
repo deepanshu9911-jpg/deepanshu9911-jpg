@@ -1,39 +1,44 @@
 <div align="center">
 
-<!-- Animated header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanshu%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Software%20Developer%20%7C%20VIT%20Chennai&descAlignY=55&descSize=18" />
+<!-- Profile photo — large, circular -->
+<img src="https://avatars.githubusercontent.com/deepanshu9911-jpg" width="200" alt="Deepanshu Srivastava" style="border-radius:50%"/>
 
-<!-- Typing animation -->
+<br/><br/>
+
+<!-- Name in typing font style -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full-Stack+%2B+ML+Engineer;Real-Time+Intrusion+Detection+%F0%9F%9B%A1%EF%B8%8F;LLM+Integration+%26+AI+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=99999&color=6AD3F7&center=true&vCenter=true&width=500&lines=Deepanshu+Srivastava" alt="Name" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepanshu--srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-srivastava)
-[![Gmail](https://img.shields.io/badge/Gmail-deepanshuup2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshuup2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-deepanshu9911--jpg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepanshu9911-jpg)
+<!-- Single rotating tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=620&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full-Stack+%2B+ML+Engineer+%F0%9F%92%BB;Real-Time+Intrusion+Detection+%F0%9F%9B%A1%EF%B8%8F;LLM+Integration+%26+AI+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Tagline" />
+</a>
+
+<br/>
+
+<!-- Stats + social badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=deepanshu9911-jpg&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/deepanshu9911-jpg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-srivastava)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshuup2005@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **B.Tech CSE (AIML)** at **VIT Chennai** · CGPA: **8.55/10**
-- 🔭 Building **AI-powered tools**, **real-time security systems** & **LLM apps**
-- 🧠 Strong in **ML pipelines**, **full-stack engineering** & **secure backends**
-- 🛡️ Passionate about **intrusion detection**, **anomaly detection** & **data privacy**
-- 🌱 Currently exploring **Agentic AI**, **RAG systems** & **advanced LLM integration**
-- 📍 Based in **Chennai, India**
-- 💬 Ask me about **Python · React · XGBoost · LLM Integration · JWT/AES Security**
-- 📫 Reach me at **deepanshuup2005@gmail.com** · **+91 9289727811**
+B.Tech Computer Science (AIML) student at **VIT Chennai** (CGPA: 8.55/10), graduating in 2028. I build full-stack intelligent systems — from real-time network intrusion detection to AI-powered medical triage assistants.
 
-<br clear="right"/>
+I spend most of my time writing code at the intersection of **machine learning**, **secure backend engineering**, and **developer-friendly UX**. My work focuses on LLM integration, anomaly detection pipelines, and end-to-end encrypted applications.
+
+When I'm not coding, I'm exploring **Agentic AI**, RAG systems, and advanced model deployment patterns. I'm actively looking for internship opportunities and open-source collaborations.
+
+📍 Chennai, India &nbsp;|&nbsp; 📫 deepanshuup2005@gmail.com &nbsp;|&nbsp; 📞 +91 9289727811
 
 ---
 
@@ -161,9 +166,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
 
 *Building at the intersection of AI, security, and developer experience.*
 *Open to internships, collaborations, and interesting problems.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
