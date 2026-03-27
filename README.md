@@ -135,16 +135,17 @@ When I'm not coding, I'm exploring **Agentic AI**, RAG systems, and advanced mod
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu9911-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&rank_icon=github&card_width=400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu9911-jpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&card_width=400"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepanshu9911-jpg&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=deepanshu9911-jpg&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepanshu9911-jpg&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepanshu9911-jpg&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu9911-jpg&theme=react-dark&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepanshu9911-jpg&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepanshu9911-jpg&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
